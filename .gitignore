@@ -1,2 +1,10 @@
 .ipynb_checkpoints
 vgg_face_weights.h5
+
+projeto/pesos/*
+
+projeto/modelos/*
+
+projeto/classificadores/*
+
+.DS_Store
